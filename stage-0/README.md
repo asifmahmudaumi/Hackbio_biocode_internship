@@ -2,7 +2,7 @@
 
 ## Team Name: Valine
 
-Welcome to my repository for the HackBio Biocoding Internship! This repository contains my solution for the **Stage Zero Task**, where I introduced my team members using Python.
+Welcome to my repository for the HackBio Biocoding Internship! This repository contains my solution for the **Stage-0 Task**, where I introduced my team members using Python.
 
 ---
 
