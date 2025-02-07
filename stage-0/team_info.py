@@ -73,3 +73,9 @@ print("Discipline:", team_members[2]["Discipline"])
 print("Programming Language:", team_members[2]["Programming Language"])
 print("-" * 50)
 
+# GitHub Links for the Team Members:
+# Akeemat Ayinla: https://github.com/Akeemat/HackBio_Coding_For_Bio/tree/main/STAGE%200
+# Md Asif Mahmud Aumi: https://github.com/asifmahmudaumi/Hackbio_biocode_internship/tree/main/stage-0
+# Felix Idowu: https://github.com/Holuwabiggest/Hackbio-biocoding-internship.git
+
+# X Post Link: https://x.com/asifmahmudaumi/status/1887953320968388848
